@@ -23,7 +23,7 @@ Master of Science in Global Logistics: Arizona State University, W.P. Carey Scho
 --------------------------------------------------------------------------------------------------
 ## [Tableau Repository](https://public.tableau.com/app/profile/millermiller)
 Link: [https://public.tableau.com/app/profile/millermiller](https://public.tableau.com/app/profile/millermiller)
-![image]([https://github.com/rymiller0/portfolio/blob/main/assets/Tableau_Logo.png])
+![image](https://github.com/rymiller0/portfolio/blob/main/assets/Tableau_Logo.png)
 
 
 
@@ -31,7 +31,7 @@ Link: [https://public.tableau.com/app/profile/millermiller](https://public.table
 
 #### [Sales Analysis](https://public.tableau.com/app/profile/millermiller/viz/SalesAnalysisExample_16491932208790/ProductLinePerformance#1)
 Link:[https://public.tableau.com/app/profile/millermiller/viz/SalesAnalysisExample_16491932208790/ProductLinePerformance#1](https://public.tableau.com/app/profile/millermiller/viz/SalesAnalysisExample_16491932208790/ProductLinePerformance#1)
-![image]([https://github.com/rymiller0/portfolio/blob/main/assets/Tableau_Logo.png])
+![image](https://github.com/rymiller0/portfolio/blob/main/assets/tableau_sales%20analysis%20image.png)
 * Example visualizations of sales performance broken down by item, region, salesperson.
 * Revenue trending, and breakdown.
   
