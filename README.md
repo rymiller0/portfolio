@@ -12,6 +12,7 @@ Master of Science in Global Logistics: Arizona State University, W.P. Carey Scho
   
 ## [Phoenix Weather Analysis - 110 Degree days: Python 3](https://github.com/rymiller0/portfolio/blob/main/Phx%20Weather%20Analysis.ipynb)
 * View Analysis Here: [https://github.com/rymiller0/rymiller0.github.io/blob/main/Phx%20Weather%20Analysis.ipynb](https://github.com/rymiller0/rymiller0.github.io/blob/main/Phx%20Weather%20Analysis.ipynb)
+![image](https://github.com/rymiller0/portfolio/blob/main/assets/phx%20weather%20header%20image.png)
 * Analysis performed in response to an article written in 2023, by accuweather.com, to determine probability and significance of 110 degree days in Phoenix, Arizona.
 [Record heatwave in Phoenix could end with a bang] (https://www.accuweather.com/en/weather-forecasts/record-heat-wave-in-phoenix-could-end-with-a-bang/1564900) 
 * Calculated descriptive statistics with Pandas library.
@@ -22,8 +23,7 @@ Master of Science in Global Logistics: Arizona State University, W.P. Carey Scho
 --------------------------------------------------------------------------------------------------
 ## [Tableau Repository](https://public.tableau.com/app/profile/millermiller)
 Link: [https://public.tableau.com/app/profile/millermiller](https://public.tableau.com/app/profile/millermiller)
-
-
+![image]([https://github.com/rymiller0/portfolio/blob/main/assets/Tableau_Logo.png](https://github.com/rymiller0/portfolio/blob/main/assets/Tableau_Logo.png)
 
 
 
@@ -31,11 +31,13 @@ Link: [https://public.tableau.com/app/profile/millermiller](https://public.table
 
 #### [Sales Analysis](https://public.tableau.com/app/profile/millermiller/viz/SalesAnalysisExample_16491932208790/ProductLinePerformance#1)
 Link:[https://public.tableau.com/app/profile/millermiller/viz/SalesAnalysisExample_16491932208790/ProductLinePerformance#1](https://public.tableau.com/app/profile/millermiller/viz/SalesAnalysisExample_16491932208790/ProductLinePerformance#1)
+![image]([https://github.com/rymiller0/portfolio/blob/main/assets/Tableau_Logo.png](https://github.com/rymiller0/portfolio/blob/main/assets/tableau_sales%20analysis%20image.png))
 * Example visualizations of sales performance broken down by item, region, salesperson.
 * Revenue trending, and breakdown.
   
 #### [2023 Fantasy Football Draft Guide](https://public.tableau.com/app/profile/millermiller/viz/2023FantasyFootballDraftGuide/DraftGuide-AverageWeeklyPointDifferential)
 Link: [https://public.tableau.com/app/profile/millermiller/viz/2023FantasyFootballDraftGuide/DraftGuide-AverageWeeklyPointDifferential](https://public.tableau.com/app/profile/millermiller/viz/2023FantasyFootballDraftGuide/DraftGuide-AverageWeeklyPointDifferential)
+![image](https://github.com/rymiller0/portfolio/blob/main/assets/Tableau_fantasy%20football%20draft%20analysis%20image.png)
 * Created metrics to determine player consistency, such as % weeks above certain point thresholds, weekly standard deviation, average standard deviation compared to league average, average weekly point differtial compared to league average, and a propritary consistency blended score.
 * Blended average draft position by platform, and calculated average point differential compared to top players by position to find actionable discrepancies and make data driven picks.
 * Dashboard used in real-time fantasy football draft to maximize/optimze draft picks for best consistency. 
